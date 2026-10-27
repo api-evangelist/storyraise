@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Storyraise is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://storyraise.com/
+Storyraise provides donor engagement software that helps nonprofits and foundations build real connections with supporters. Their platform offers tools for fundraising, donor stewardship, impact reporting, and analytics, enabling organizations to manage campaigns, major gifts, and communications across sectors such as education, healthcare, and social justice.
+
+**Areas:** Company · Nonprofit · Fundraising · DonorManagement · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://storyraise.com/)
+- [Documentation](https://docs.storyraise.com/)
+- [Getting started](https://docs.storyraise.com/docs/getting-started/what-is-storyraise/)
+- [Pricing](https://storyraise.com/pricing)
+- [Sign up](https://storyraise.com/demo)
+- [Support](https://storyraise.com/support)
+- [Blog](https://storyraise.com/blog?hsLang=en)
+- [Terms of service](https://storyraise.com/terms-conditions?hsLang=en)
+- [Privacy policy](https://storyraise.com/privacy-policy?hsLang=en)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/storyraise/](https://apis.io/providers/storyraise/).
